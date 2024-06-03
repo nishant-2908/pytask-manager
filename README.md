@@ -17,7 +17,7 @@
 Downloading the github repository
 
 ```bash
-git clone https://www.github.com/nishant-2908/pypharmacy.git
+git clone https://www.github.com/nishant-2908/pytask-manager.git
 ```
 
 Running the program
