@@ -1,4 +1,4 @@
-# pyTaskManager
+# pytask-manager
 ## Python Implementation of Task Manager
 
 ## Table of Content
